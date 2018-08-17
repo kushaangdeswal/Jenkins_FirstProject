@@ -4,7 +4,7 @@ public class ThirdIteration_UsingMars
 public static void main(String args[])
 {
 int a,b,c;
-a=10;
+a=100;
 b=20;
 c=30;
 System. out. println("output is" + (a+b+c) );
