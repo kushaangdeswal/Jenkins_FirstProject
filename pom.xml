@@ -4,6 +4,10 @@
   <artifactId>ThirdIteration_UsingMars</artifactId>
   <version>0.0.1-SNAPSHOT</version>
   <name>ThirdIteration_UsingMars</name>
+  <properties>
+  <sonar.exclusions> [...] </sonar.exclusions>
+</properties>
+
   <build>
     <sourceDirectory>src</sourceDirectory>
     <plugins>
